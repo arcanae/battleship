@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+th,
+td {
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+#thblank,
+th {
+    border: none;
+}
